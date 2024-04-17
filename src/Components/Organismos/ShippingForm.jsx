@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import imagen19 from '../images/image_19.jpg';
-import imagen20 from '../images/image_20.jpg';
-import imagen21 from '../images/image_21.jpg';
+import imagen19 from '../images/Image_19.jpg';
+import imagen20 from '../images/Image_20.jpg';
+import imagen21 from '../images/Image_21.jpg';
 
 const Contacto = () => {
   const [formData, setFormData] = useState({
