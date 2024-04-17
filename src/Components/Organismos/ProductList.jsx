@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import ProductCard from '../Moleculas/ProductCard';
 import './styles/ProductList.css'; 
 import './styles/ProductCategories.css'; 
-import './styles/Styles.css'; 
+import './styles/styles.css'; 
 
 function ProductList() {
   const [games, setGames] = useState([]);
