@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import imagen21 from '../images/image_21.jpg';
+import imagen21 from '../images/Image_21.jpg';
 import NavBar from '../Organismos/Navbar';
 
 const RegistroTarjeta = () => {
